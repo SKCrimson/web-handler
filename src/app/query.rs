@@ -1,1 +1,1 @@
-mod get_hello_word;
+pub mod get_hello_world;
